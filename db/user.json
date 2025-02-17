@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "venky",
+      "id": "1",
+      "role": "developer"
+    },
+    {
+      "id": "10",
+      "name": "navya",
+      "role": "dev"
+    },
+    {
+      "id": "20",
+      "name": "vaish",
+      "role": "dev"
+    },
+    {
+      "id": "20",
+      "name": "srini",
+      "role": "dev"
+    }
+  ]
+}
